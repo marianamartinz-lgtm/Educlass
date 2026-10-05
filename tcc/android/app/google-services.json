@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "640760628631",
+    "project_id": "educlass-33613",
+    "storage_bucket": "educlass-33613.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:640760628631:android:46a155e195ffd3cea930d2",
+        "android_client_info": {
+          "package_name": "com.example.tcc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "640760628631-u1e448drqdd92r2c7ihiksvfoj95utef.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYnIKSnswK3nTF2db9een4ytQSMXIlwp0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "640760628631-u1e448drqdd92r2c7ihiksvfoj95utef.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

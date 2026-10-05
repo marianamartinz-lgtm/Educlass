@@ -1,0 +1,31 @@
+name: tcc
+description: Projeto EduClass
+
+publish_to: 'none'
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  http: ^1.2.0
+  google_sign_in: ^6.2.1
+  image_picker: ^1.1.2
+  shared_preferences: ^2.2.3
+  url_launcher: ^6.3.0
+  file_picker: ^13.1.0
+
+  # 🔥 BANCO LOCAL (SQLite)
+  sqflite: ^2.4.4
+  path: ^1.9.1
+  sqflite_common_ffi: ^2.4.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
